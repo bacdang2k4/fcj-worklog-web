@@ -15,21 +15,21 @@
     <title>Create CloudWatch Alarm :: Internship Report</title>
 
     
-    <link href="../../css/nucleus.css?1764919303" rel="stylesheet">
-    <link href="../../css/fontawesome-all.min.css?1764919303" rel="stylesheet">
-    <link href="../../css/hybrid.css?1764919303" rel="stylesheet">
-    <link href="../../css/featherlight.min.css?1764919303" rel="stylesheet">
-    <link href="../../css/perfect-scrollbar.min.css?1764919303" rel="stylesheet">
-    <link href="../../css/auto-complete.css?1764919303" rel="stylesheet">
-    <link href="../../css/atom-one-dark-reasonable.css?1764919303" rel="stylesheet">
-    <link href="../../css/theme.css?1764919303" rel="stylesheet">
-    <link href="../../css/hugo-theme.css?1764919303" rel="stylesheet">
+    <link href="../../css/nucleus.css?1764919915" rel="stylesheet">
+    <link href="../../css/fontawesome-all.min.css?1764919915" rel="stylesheet">
+    <link href="../../css/hybrid.css?1764919915" rel="stylesheet">
+    <link href="../../css/featherlight.min.css?1764919915" rel="stylesheet">
+    <link href="../../css/perfect-scrollbar.min.css?1764919915" rel="stylesheet">
+    <link href="../../css/auto-complete.css?1764919915" rel="stylesheet">
+    <link href="../../css/atom-one-dark-reasonable.css?1764919915" rel="stylesheet">
+    <link href="../../css/theme.css?1764919915" rel="stylesheet">
+    <link href="../../css/hugo-theme.css?1764919915" rel="stylesheet">
     
-    <link href="../../css/theme-workshop.css?1764919303" rel="stylesheet">
+    <link href="../../css/theme-workshop.css?1764919915" rel="stylesheet">
     
     
 
-    <script src="../../js/jquery-3.3.1.min.js?1764919303"></script>
+    <script src="../../js/jquery-3.3.1.min.js?1764919915"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -88,14 +88,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="../../js/lunr.min.js?1764919303"></script>
-<script type="text/javascript" src="../../js/auto-complete.js?1764919303"></script>
+<script type="text/javascript" src="../../js/lunr.min.js?1764919915"></script>
+<script type="text/javascript" src="../../js/auto-complete.js?1764919915"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/bacdang2k4.github.io\/fcj-worklog-web\/";
     
 </script>
-<script type="text/javascript" src="../../js/search.js?1764919303"></script>
+<script type="text/javascript" src="../../js/search.js?1764919915"></script>
  
   </div>
 
@@ -969,16 +969,21 @@
 <li>Select <strong>All alarms</strong> -&gt; <strong>Create alarm</strong></li>
 </ul>
 </li>
-<li>
-<p><strong>Select Metric</strong></p>
+</ol>
+<p><img src="../../images/5-Workshop/5.6-cloudwatch-alarm/console.png" alt="console"></p>
+<ol start="3">
+<li><strong>Select Metric</strong>
 <ul>
 <li>Click <strong>Select metric</strong></li>
 <li>Select <strong>CWAgent</strong> -&gt; <strong>ImageId, InstanceId, InstanceType</strong></li>
 <li>Find the <strong>mem_used_percent</strong> metric for the <strong>Web-Server-Test</strong> instance</li>
 </ul>
 </li>
-<li>
-<p><strong>Configure Conditions</strong></p>
+</ol>
+<p><img src="../../images/5-Workshop/5.6-cloudwatch-alarm/select-metric.png" alt="select metrics"></p>
+<p><img src="../../images/5-Workshop/5.6-cloudwatch-alarm/select-metric2.png" alt="select metrics2"></p>
+<ol start="4">
+<li><strong>Configure Conditions</strong>
 <ul>
 <li><strong>Statistic</strong>: Average</li>
 <li><strong>Period</strong>: 1 minute</li>
@@ -986,8 +991,10 @@
 <li><strong>Threshold value</strong>: 80 (Greater than 80%)</li>
 </ul>
 </li>
-<li>
-<p><strong>Configure Actions</strong></p>
+</ol>
+<p><img src="../../images/5-Workshop/5.6-cloudwatch-alarm/condition.png" alt="condition"></p>
+<ol start="5">
+<li><strong>Configure Actions</strong>
 <ul>
 <li><strong>Notification</strong>: Select <strong>Create new topic</strong></li>
 <li><strong>Topic name</strong>: Set as <strong>Admin-Alerts</strong></li>
@@ -997,8 +1004,10 @@
 <li>Remember to check your email to <strong>Confirm Subscription</strong>.</li>
 </ul>
 </li>
-<li>
-<p><strong>Name the Alarm</strong></p>
+</ol>
+<p><img src="../../images/5-Workshop/5.6-cloudwatch-alarm/action2.png" alt="action2"></p>
+<ol start="6">
+<li><strong>Name the Alarm</strong>
 <ul>
 <li><strong>Alarm name</strong>: <strong>High-Memory-Auto-Reboot</strong></li>
 <li>Click <strong>Create alarm</strong></li>
@@ -1658,19 +1667,19 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="../../js/clipboard.min.js?1764919303"></script>
-    <script src="../../js/perfect-scrollbar.min.js?1764919303"></script>
-    <script src="../../js/perfect-scrollbar.jquery.min.js?1764919303"></script>
-    <script src="../../js/jquery.sticky.js?1764919303"></script>
-    <script src="../../js/featherlight.min.js?1764919303"></script>
-    <script src="../../js/highlight.pack.js?1764919303"></script>
+    <script src="../../js/clipboard.min.js?1764919915"></script>
+    <script src="../../js/perfect-scrollbar.min.js?1764919915"></script>
+    <script src="../../js/perfect-scrollbar.jquery.min.js?1764919915"></script>
+    <script src="../../js/jquery.sticky.js?1764919915"></script>
+    <script src="../../js/featherlight.min.js?1764919915"></script>
+    <script src="../../js/highlight.pack.js?1764919915"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="../../js/modernizr.custom-3.6.0.js?1764919303"></script>
-    <script src="../../js/learn.js?1764919303"></script>
-    <script src="../../js/hugo-learn.js?1764919303"></script>
+    <script src="../../js/modernizr.custom-3.6.0.js?1764919915"></script>
+    <script src="../../js/learn.js?1764919915"></script>
+    <script src="../../js/hugo-learn.js?1764919915"></script>
 
-    <link href="../../mermaid/mermaid.css?1764919303" rel="stylesheet" />
-    <script src="../../mermaid/mermaid.js?1764919303"></script>
+    <link href="../../mermaid/mermaid.css?1764919915" rel="stylesheet" />
+    <script src="../../mermaid/mermaid.js?1764919915"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>

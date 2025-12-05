@@ -457,6 +457,19 @@
                 href="https://bacdang2k4.github.io/fcj-worklog-web/7-feedback/"
                 />
   </url><url>
+    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.8-test/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.8-test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.8-test/"
+                />
+  </url><url>
     <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.9-clean-material/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -468,18 +481,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.9-clean-material/"
-                />
-  </url><url>
-    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.8-test/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.8-test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.8-test/"
                 />
   </url><url>
     <loc>https://bacdang2k4.github.io/fcj-worklog-web/categories/</loc>

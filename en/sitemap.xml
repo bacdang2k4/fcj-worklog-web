@@ -80,19 +80,6 @@
                 href="https://bacdang2k4.github.io/fcj-worklog-web/3-blogstranslated/3.6-blog6/"
                 />
   </url><url>
-    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.3-s3-vpc/5.3.1-create-gwe/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.3-s3-vpc/5.3.1-create-gwe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.3-s3-vpc/5.3.1-create-gwe/"
-                />
-  </url><url>
     <loc>https://bacdang2k4.github.io/fcj-worklog-web/4-eventparticipated/4.1-event1/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -143,19 +130,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.1-workshop-overview/"
-                />
-  </url><url>
-    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.4-s3-onprem/5.4.1-prepare/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.4-s3-onprem/5.4.1-prepare/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.4-s3-onprem/5.4.1-prepare/"
                 />
   </url><url>
     <loc>https://bacdang2k4.github.io/fcj-worklog-web/1-worklog/1.1-week1/</loc>
@@ -288,19 +262,6 @@
                 href="https://bacdang2k4.github.io/fcj-worklog-web/1-worklog/"
                 />
   </url><url>
-    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.4-s3-onprem/5.4.2-create-interface-enpoint/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.4-s3-onprem/5.4.2-create-interface-enpoint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.4-s3-onprem/5.4.2-create-interface-enpoint/"
-                />
-  </url><url>
     <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.2-prerequiste/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -325,19 +286,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bacdang2k4.github.io/fcj-worklog-web/2-proposal/"
-                />
-  </url><url>
-    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.3-s3-vpc/5.3.2-test-gwe/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.3-s3-vpc/5.3.2-test-gwe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.3-s3-vpc/5.3.2-test-gwe/"
                 />
   </url><url>
     <loc>https://bacdang2k4.github.io/fcj-worklog-web/1-worklog/1.10-week10/</loc>
@@ -379,30 +327,17 @@
                 href="https://bacdang2k4.github.io/fcj-worklog-web/1-worklog/1.12-week12/"
                 />
   </url><url>
-    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.3-s3-vpc/</loc>
+    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.3-iam/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.3-s3-vpc/"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.3-iam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.3-s3-vpc/"
-                />
-  </url><url>
-    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.4-s3-onprem/5.4.3-test-endpoint/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.4-s3-onprem/5.4.3-test-endpoint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.4-s3-onprem/5.4.3-test-endpoint/"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.3-iam/"
                 />
   </url><url>
     <loc>https://bacdang2k4.github.io/fcj-worklog-web/3-blogstranslated/</loc>
@@ -418,19 +353,6 @@
                 href="https://bacdang2k4.github.io/fcj-worklog-web/3-blogstranslated/"
                 />
   </url><url>
-    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.4-s3-onprem/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.4-s3-onprem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.4-s3-onprem/"
-                />
-  </url><url>
     <loc>https://bacdang2k4.github.io/fcj-worklog-web/4-eventparticipated/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -444,30 +366,30 @@
                 href="https://bacdang2k4.github.io/fcj-worklog-web/4-eventparticipated/"
                 />
   </url><url>
-    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.4-s3-onprem/5.4.4-dns-simulation/</loc>
+    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.4-ec2/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.4-s3-onprem/5.4.4-dns-simulation/"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.4-ec2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.4-s3-onprem/5.4.4-dns-simulation/"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.4-ec2/"
                 />
   </url><url>
-    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.5-policy/</loc>
+    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.5-cloudwatch-agent/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.5-policy/"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.5-cloudwatch-agent/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.5-policy/"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.5-cloudwatch-agent/"
                 />
   </url><url>
     <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/</loc>
@@ -483,17 +405,17 @@
                 href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/"
                 />
   </url><url>
-    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.6-cleanup/</loc>
+    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.6-cloudwatch-alarm/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.6-cleanup/"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.6-cloudwatch-alarm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.6-cleanup/"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.6-cloudwatch-alarm/"
                 />
   </url><url>
     <loc>https://bacdang2k4.github.io/fcj-worklog-web/6-self-evaluation/</loc>
@@ -509,6 +431,19 @@
                 href="https://bacdang2k4.github.io/fcj-worklog-web/6-self-evaluation/"
                 />
   </url><url>
+    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.7-eventbridge-rule/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.7-eventbridge-rule/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.7-eventbridge-rule/"
+                />
+  </url><url>
     <loc>https://bacdang2k4.github.io/fcj-worklog-web/7-feedback/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -520,6 +455,31 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bacdang2k4.github.io/fcj-worklog-web/7-feedback/"
+                />
+  </url><url>
+    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.9-clean-material/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.9-clean-material/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.9-clean-material/"
+                />
+  </url><url>
+    <loc>https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.8-test/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/vi/5-workshop/5.8-test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bacdang2k4.github.io/fcj-worklog-web/5-workshop/5.8-test/"
                 />
   </url><url>
     <loc>https://bacdang2k4.github.io/fcj-worklog-web/categories/</loc>
